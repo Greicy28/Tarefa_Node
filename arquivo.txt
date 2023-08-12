@@ -1,0 +1,6 @@
+Primeira linha
+20
+40
+Segunda linha
+10
+Terceira linha
